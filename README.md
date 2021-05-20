@@ -1,3 +1,3 @@
-# ds-time_series_intro
+# ds-time_series_modeling
 
-This repository describes time series decomposition and simple models in Python. It was created with love by Flatiron School 💙
+This repository describes time series various modeling techniques in Python. It was created with love by Flatiron School 💙
